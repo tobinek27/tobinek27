@@ -3,9 +3,9 @@ My name is Tobiáš and I'm a 19yo software developer with a passion for buildin
 
 💻 Tech Stack
 
-    I'm currently getting familiar with PHP and really enjoying the process
-    Python: I love the simplicity and versatility of Python and have used it in a couple of my personal projects
-    MySQL (also have experience with OracleDB and SQL Server, but I just find MySQL to be the most user-friendly)
+    > I'm currently getting familiar with PHP and really enjoying the process
+    > Python: I love the simplicity and versatility of Python and have used it in a couple of my personal projects
+    > MySQL (also have experience with OracleDB and SQL Server, but I just find MySQL to be the most user-friendly)
 
 🔭 What I'm currently working on: At the moment, I am working on my final project for my final year of secondary school (ez-db database manager)
 
