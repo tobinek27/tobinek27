@@ -12,6 +12,7 @@ My name is Tobiáš and I'm a 19yo software developer with a passion for buildin
 📫 Feel Free To Contact Me :) tobias.haltmar@gmail.com or: tobinek@tobinek.tk
 
 🔗 Personal Website https://www.tobinek.tk/
+🔗 Try out the EZ-DB! https://www.tobinek.tk/ezdb
 <!--
 **tobinek27/tobinek27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
