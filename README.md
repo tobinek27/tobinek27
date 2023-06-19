@@ -9,7 +9,7 @@ My name is Tobiáš and I'm a 20yo software developer with a passion for buildin
 
 🔭 What I'm currently working on: personal web-related projects
 
-📫 Feel Free To Contact Me :) tobias.haltmar@gmail.com or: tobinek@tobinek.tk
+📫 Feel Free To Contact Me: tobias.haltmar@gmail.com or: tobinek@tobinek.tk
 
 🔗 Personal Website https://www.tobinek.tk/
 <!--
