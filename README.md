@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Tobiáš and I'm a 19yo software developer with a passion for building and coming up with solutions to complex problems. I'm currently studying at the Secondary Technical School of Electronical Engineering Ječná, Prague
+My name is Tobiáš and I'm a 20yo software developer with a passion for building and coming up with solutions to complex problems. I'm currently studying at the Secondary Technical School of Electronical Engineering Ječná, Prague
 
 💻 Tech Stack
 
@@ -7,12 +7,11 @@ My name is Tobiáš and I'm a 19yo software developer with a passion for buildin
     > Python: I love the simplicity and versatility of Python and have used it in a couple of my personal projects
     > MySQL (also have experience with OracleDB and SQL Server, but I just find MySQL to be the most user-friendly)
 
-🔭 What I'm currently working on: At the moment, I am working on my final project for my final year of secondary school (ez-db database manager)
+🔭 What I'm currently working on: personal web-related projects
 
 📫 Feel Free To Contact Me :) tobias.haltmar@gmail.com or: tobinek@tobinek.tk
 
 🔗 Personal Website https://www.tobinek.tk/
-🔗 Try out the EZ-DB! https://www.tobinek.tk/ezdb
 <!--
 **tobinek27/tobinek27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
