@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Tobiáš and I'm a 20yo software developer with a passion for building and coming up with solutions to complex problems. I'm currently studying at the Secondary Technical School of Electronical Engineering Ječná, Prague
+My name is Tobiáš and I enjoy IT
 
 💻 Tech Stack
 
