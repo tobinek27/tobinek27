@@ -7,9 +7,7 @@ My name is Tobi and I enjoy IT
     > Python: I love the simplicity and versatility of Python and have used it in a couple of my personal projects
     > MySQL (also have experience with OracleDB and SQL Server, but I just find MySQL to be the most user-friendly)
 
-🔭 I'm currently working on:
-    - personal web-related projects
-    - c# projects
+🔭 I'm currently working on personal web-related projects and c# projects
 
 📫 Feel Free To Contact Me: tobias.haltmar@gmail.com
 
