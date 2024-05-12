@@ -7,11 +7,12 @@ My name is Tobi and I enjoy IT
     > Python: I love the simplicity and versatility of Python and have used it in a couple of my personal projects
     > MySQL (also have experience with OracleDB and SQL Server, but I just find MySQL to be the most user-friendly)
 
-🔭 What I'm currently working on: personal web-related projects
+🔭 I'm currently working on:
+    - personal web-related projects
+    - c# projects
 
-📫 Feel Free To Contact Me: tobias.haltmar@gmail.com or: tobinek@tobinek.tk
+📫 Feel Free To Contact Me: tobias.haltmar@gmail.com
 
-🔗 Personal Website https://www.tobinek.tk/
 <!--
 **tobinek27/tobinek27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
