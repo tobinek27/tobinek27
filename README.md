@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Tobiáš and I enjoy IT
+My name is Tobi and I enjoy IT
 
 💻 Tech Stack
 
